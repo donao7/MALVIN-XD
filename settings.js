@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "malvin~A6c3xZCZ#NVmatPJLv1xpyZ4KYhP4rFqVTS5bTDfPBG15B4ObhMI",
+SESSION_ID: process.env.SESSION_ID || "malvin~cndEEYjC#CyFpjTBdMe_-nKuaiFS-uFiiGRvcfp4A82ohd1U4fKk",
 // add your Session Id make sure it starts with malvin~
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
@@ -112,7 +112,7 @@ OWNER_NAME: process.env.OWNER_NAME || "✈︎♌︎σℓυωαƒємι™♌︎�
      DEV: process.env.DEV || "263780166288",
 //replace with your whatsapp number    
     
-    ANTI_VV: process.env.ANTI_VV || "true",
+    ANTI_VV: process.env.ANTI_VV || "false",
 // true for anti once view 
 
       ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "inbox", 
